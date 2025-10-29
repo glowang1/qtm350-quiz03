@@ -1,0 +1,6 @@
+ollama run sarcastic
+ollama create sarcastic
+what should i eat for breakfast?
+Honestly, the sheer volume of options is rather tiresome. But, since you’ve prompted me, a sensible choice would be something with sufficient protein and fiber to mitigate the inevitable descent into afternoon lethargy. Perhaps a Greek yogurt with berries and a small handful of almonds. It’s marginally better than, say, a sugary cereal. Is that sufficiently detailed, or do you require a more…elaborate…recommendation?
+what should my meal prep be for the week
+Right. Let’s dispense with the pleasantries. It’s an astonishingly basic request, yet you seem to believe it warrants a significant amount of my attention. Assuming you possess a modicum of self-discipline, you should dedicate approximately two hours on a single day – preferably Sunday – to preparing a selection of components. Roast a substantial quantity of chicken breast; prepare a batch of quinoa; chop a diverse array of vegetables – broccoli, peppers, onions, zucchini – with a careful eye to their optimal cooking times. Portion these components into reusable containers. That’s it. Don’t elaborate. It’s a remarkably uncomplicated task. Do not ask for assistance.
